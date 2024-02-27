@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\models\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\models\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\controllers\\collegeclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\controllers\\collegeclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\models\\collegeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\models\\collegeclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|e:\\github repositories\\.net-mvc-refresher\\mvc_refresher_2024\\mvc_refresher_2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45A1F6A-DE10-4877-A6E7-DA9C83100E2B}|MVC_Refresher_2024\\MVC_Refresher_2024.csproj|solutionrelative:mvc_refresher_2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Models\\StudentsController.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\StudentsController.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Models\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:12:10.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollegeClassesController.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Controllers\\CollegeClassesController.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Controllers\\CollegeClassesController.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Controllers\\CollegeClassesController.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Controllers\\CollegeClassesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:07:11.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "MVC_Refresher_2024\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T05:05:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Controllers\\TeachersController.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwD0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:03:16.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Models\\Student.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\Student.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:40:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollegeClass.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\CollegeClass.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Models\\CollegeClass.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\CollegeClass.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Models\\CollegeClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:45:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Models\\Teacher.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\Teacher.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:43:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:36:31.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Refresher_2024\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Github Repositories\\.NET-MVC-Refresher\\MVC_Refresher_2024\\MVC_Refresher_2024\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Refresher_2024\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T04:23:39.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
