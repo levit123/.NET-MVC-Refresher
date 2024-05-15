@@ -234,6 +234,7 @@ E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\
 E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\obj\Debug\net8.0\MVC_Refresher_2024.MvcApplicationPartsAssemblyInfo.cache
 E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\obj\Debug\net8.0\MVC_Refresher_2024.RazorAssemblyInfo.cache
 E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\obj\Debug\net8.0\MVC_Refresher_2024.RazorAssemblyInfo.cs
+E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\obj\Debug\net8.0\MVC_Refresher_2024.sourcelink.json
 E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\obj\Debug\net8.0\staticwebassets.build.json
 E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\obj\Debug\net8.0\staticwebassets.development.json
 E:\Github Repositories\.NET-MVC-Refresher\MVC_Refresher_2024\MVC_Refresher_2024\obj\Debug\net8.0\staticwebassets\msbuild.MVC_Refresher_2024.Microsoft.AspNetCore.StaticWebAssets.props

@@ -6,8 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MVC_Refresher_2024.Data;
+using MVC_Refresher_2024.Models;
 
-namespace MVC_Refresher_2024.Models
+namespace MVC_Refresher_2024.Controllers
 {
     public class StudentsController : Controller
     {
